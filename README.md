@@ -1,6 +1,6 @@
 
 # 🧬About Me:
-Just a simple coder learning Java @_@
+Just a cat coder learning something @_@
 
 ![Banner](assets/banner.gif)
 
