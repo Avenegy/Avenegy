@@ -1,21 +1,36 @@
+<div align="center">
 
-# 🧬About Me:
-Just a cat coder learning something @_@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=6DBE47&vCenter=true&random=true&width=500&lines=i+write+code.+sometimes+it+works;professional+~~gooner~~+googler;still+learning.+probably+always+will+be;better+than+yesterday%2C+worse+than+tomorrow)](https://git.io/typing-svg)
 
-![Banner](assets/banner.gif)
+</div>
 
-------------------------------------
-## 🔗 Links:
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Avenegy/)
+---
 
-------------------------------------
+> 14 y.o. from Ukraine.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+Got into coding at 11 but really started figuring it out recently.<br>
+Tried Python, JavaScript, a bit of Java. Currently learning **Rust** <br>
+Not a developer. Just someone who builds things and learns along the way.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+---
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+**games** — Minecraft is a whole separate love. Also CS2, Metro, Half-Life, Portal.
+<br>
+**music** — hyperpop, rap, and whatever sounds good.
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+---
 
+Not sure where this is going. Maybe DevOps, maybe something else.<br>
+For now just experimenting and trying to be better than yesterday.
+
+---
+<div align="center">
+
+<br>
+<br>
+
+[![Spotify](https://avenegy.pythonanywhere.com/?theme=dark&eq_color=45B7AA)](https://open.spotify.com)
+
+<img src="https://raw.githubusercontent.com/Avenegy/Avenegy/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+
+</div>
