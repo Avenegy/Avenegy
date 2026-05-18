@@ -31,8 +31,6 @@ For now just experimenting and trying to be better than yesterday.
 
 [![Spotify](https://avenegy.pythonanywhere.com/?theme=dark&eq_color=6DBE47)](https://open.spotify.com)
 
----
-
 <img src="https://raw.githubusercontent.com/Avenegy/Avenegy/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 </div>
