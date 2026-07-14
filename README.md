@@ -13,6 +13,11 @@ Tried Python, JavaScript, a bit of Java. Currently learning **Rust** <br>
 Not a developer. Just someone who builds things and learns along the way.
 
 ---
+<br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<br>
+---
 
 **games** — Minecraft is a whole separate love. Also CS2, Metro, Half-Life, Portal.
 <br>
