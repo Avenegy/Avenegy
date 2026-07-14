@@ -15,6 +15,16 @@ Not a developer. Just someone who builds things and learns along the way.
 ---
 <br>
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 2 hrs 3 mins
+
+Rust         1 hr 16 mins          ███████████████▒░░░░░░░░░   61.69 %
+JavaScript   33 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.86 %
+Bash         13 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+```
+
 <!--END_SECTION:waka-->
 <br>
 ---
