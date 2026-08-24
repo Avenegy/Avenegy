@@ -16,12 +16,9 @@ Not a developer. Just someone who builds things and learns along the way.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 26 mins
+Total Time: 0 secs
 
-Python       4 hrs 5 mins          ███████████████████████░░   92.07 %
-JSON         13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-Bash         6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Git Config   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
