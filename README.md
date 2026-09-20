@@ -16,14 +16,11 @@ Not a developer. Just someone who builds things and learns along the way.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 13 mins
+Total Time: 1 hr 44 mins
 
-Python       1 hr 44 mins          ███████████████████░░░░░░   76.10 %
-TypeScript   19 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
-JSON         6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-Other        3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-Bash         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-CSS          1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Python   1 hr 36 mins          ███████████████████████░░   91.99 %
+JSON     6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+Bash     2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 ```
 
 <!--END_SECTION:waka-->
