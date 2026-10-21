@@ -18,7 +18,7 @@ Not a developer. Just someone who builds things and learns along the way.
 ```txt
 Total Time: 0 secs
 
-Lua   0 secs                █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
