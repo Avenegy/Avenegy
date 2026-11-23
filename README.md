@@ -16,13 +16,11 @@ Not a developer. Just someone who builds things and learns along the way.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 1 min
+Total Time: 2 hrs 41 mins
 
-Rust         5 hrs 42 mins         ███████████████████████░░   91.73 %
-Markdown     18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-Other        11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-TOML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Rust         2 hrs 31 mins         ███████████████████████▒░   93.94 %
+Markdown     9 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
